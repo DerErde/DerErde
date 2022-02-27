@@ -9,7 +9,7 @@ My work on github:
 - 📫 How to reach me:
 - Email: 1024bit@pm.me
 - My site: (add later)
-<a href="https://www.linkedin.com/in/add-later/">
+<a href="https://www.linkedin.com/in/aleksei-sokolov-e/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ### 😂 Here is a random joke that'll make you laugh!
