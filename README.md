@@ -2,11 +2,7 @@
 
 <!-- **DerErde/DerErde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-:ukraine: No to war!:ukraine:
-
-:ukraine: I am against the war!:ukraine:
-
-:ukraine: No to war!:ukraine:
+:ukraine: No to war!:ukraine: I am against the war! :ukraine: No to war!:ukraine:
 
 I am Ukrainian. 
 I was born and lived in Ukraine.
@@ -19,7 +15,7 @@ I have been living in Russia (most of life) for many years and have Russian citi
 
 I know and I love the Russian people, they are wonderful people.
 
-So I am half-Russian and half-Ukrainian?
+So I am half-Russian and half-Ukrainian?!
 I have relatives in Ukraine, in Crimea and all around Russia.
 
 This makes me feel even worse. 
@@ -45,17 +41,13 @@ Also I want to say to all those who help Ukraine, thank you very much for your h
 A special thank you to the ordinary :czech_republic:Czech:czech_republic: people!
 
 In the 21st century, people should not die in war.
-It doesn't matter which war it is, Syria, Iraq, Iran, Ukraine, or any other.
+No matter what country, Syria, Iraq, Iran, Ukraine, or any other.
 
 I am against the war.
 
 What's in store for us now?
 
-:ukraine: No to war!:ukraine:
-
-:ukraine: I am against the war!:ukraine:
-
-:ukraine: No to war!:ukraine:
+:ukraine: No to war! :ukraine: I am against the war! :ukraine: No to war!:ukraine:
 
 :peace_symbol:
 
