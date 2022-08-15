@@ -34,3 +34,5 @@ I try different technologies, configure operating systems, and provide technical
 ![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=dererde&count_private=true&hide=contribs&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dererde&count_private=true&hide=tsql&langs_count=7&theme=dracula&layout=compact)
 
+
+My backup repository: https://git.disroot.org/DerErde
