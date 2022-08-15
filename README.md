@@ -7,10 +7,9 @@
 My work on github:
 
 - 🔭 At the moment, I'm taking courses and learning how to program.
-- 🌱 I worked with html/css. Now I am programming in :snake:Python. And I create notes <a href="https://github.com/DerErde/listOfMyCourses">here</a>.
+- 🌱 I worked with html/css. Now I am programming in :snake:Python. And I create notes here.
 - 📫 How to reach me:
 - Email: 1024bit@pm.me
-- My site: (add later)
 <a href="https://www.linkedin.com/in/aleksei-sokolov-e/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
