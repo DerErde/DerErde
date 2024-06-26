@@ -31,4 +31,4 @@ I try different technologies, configure operating systems, and provide technical
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dererde&count_private=true&hide=tsql&langs_count=7&theme=dracula&layout=compact)
 
 
-My backup repository: https://git.disroot.org/DerErde
+
