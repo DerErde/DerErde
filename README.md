@@ -25,10 +25,4 @@ I try different technologies, configure operating systems, and provide technical
 
 :rice_scene: In my opinion, programming is one of the few great things to do in life.
 
-### 📈 GitHub Stats
-
-![EnjiRouz GitHub Stats](https://github-readme-stats.vercel.app/api?username=dererde&count_private=true&hide=contribs&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dererde&count_private=true&hide=tsql&langs_count=7&theme=dracula&layout=compact)
-
-
 
