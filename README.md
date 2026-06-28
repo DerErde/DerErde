@@ -14,11 +14,11 @@ I try different technologies, configure operating systems, and provide technical
 ### My Work on GitHub
 
 -  I’m currently translating the documentation for the [Reticulum](https://github.com/markqvist/Reticulum) project.
--  I build custom minimalistic websites using only HTML5 & CSS — no other technologies.
+-  I build custom websites on request. Only HTML5 & CSS. Yes, that's the whole stack. ☺  
 
 ### My Contacts
 - [Jami](https://jami.net)  
-I`am in Jami: ReticulumMen  
+I`m in Jami: ReticulumMen  
 name: reticulum  
 id: 45d6a4bc9594fbca8f04bd41ad4a44e7d386255e
 
