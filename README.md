@@ -1,28 +1,33 @@
-## :shipit: Welcome!
+## Welcome!
 
 <!-- **DerErde/DerErde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-:peace_symbol:
 
-My work on github:
+### About me 
 
-- 🔭 At the moment, I'm taking courses and learning how to program.
-- 🌱 I worked with html/css. Now I am programming in :snake:Python. And I create notes here.
-
-
-### 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-### :mortar_board: About me 
-
-My name is Alexey.
+Hello.
 
 I am a system administrator.
-I have been working with computers for 4 years. 
+I have been working with computers for 7 years. 
 I try different technologies, configure operating systems, and provide technical support to users.
 
-:rice_scene: I'm currently studying programming.
+- I'm currently studying programming.
 
-:rice_scene: In my opinion, programming is one of the few great things to do in life.
+- And something else.
 
+### My Work on GitHub
 
+-  I’m currently translating the documentation for the [Reticulum](https://github.com/markqvist/Reticulum) project.
+-  I build custom minimalistic websites using only HTML5 & CSS — no other technologies.
+
+### My Contacts
+- [Jami](https://jami.net)  
+I`am in Jami: ReticulumMen  
+name: reticulum  
+id: 45d6a4bc9594fbca8f04bd41ad4a44e7d386255e
+
+- [Jami](https://jami.net)  
+swarm id: 508f76160045cc8ba3e969b826b2165e9aabb21e  
+info: The [Reticulum](https://github.com/DerErde/Reticulum-manual-ru) group
+
+- [i2p](https://en.wikipedia.org/wiki/I2P) site:   
